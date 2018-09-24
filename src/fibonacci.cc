@@ -5,6 +5,7 @@
 #ifndef EX03_FIBONACCI_FIBONACCI_H
 #define EX03_FIBONACCI_FIBONACCI_H
 
+#include <cstdint>
 #include <cstdlib>
 
 namespace edu { namespace vcccd { namespace vc { namespace csv15 {
